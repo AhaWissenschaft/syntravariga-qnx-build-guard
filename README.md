@@ -1,0 +1,1 @@
+# syntravariga-qnx-build-guard

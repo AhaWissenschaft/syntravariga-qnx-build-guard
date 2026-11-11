@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/example/build",
+    "file": "hello.c",
+    "arguments": [
+      "qcc",
+      "-Vgcc_ntoaarch64le",
+      "-c",
+      "hello.c"
+    ]
+  }
+]
